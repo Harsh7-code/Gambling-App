@@ -3,6 +3,11 @@
 This project is a simple gambling app that demonstrates a Minesweeper-based game, which can be controlled and managed through two HTML pages: index.html and control.html. The game is created using HTML and JavaScript.
 
 
+## Technologies Used
+
+1. HTML: For structuring the pages.
+2. JavaScript: For implementing the game logic and control functionalities.
+
 ## Future Enhancements
 
 1. Add more game controls and settings.
