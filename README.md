@@ -2,14 +2,13 @@
 <!-- ### Please note that some parts of this code were built with the help of AI(To cover the fact that i actually suck at NodeJS). -->
 
 
-## Pages
-- home(localhost:3000)
-- control pane (localhost:3000/control.html)
+## Overview
+This project is a simple gambling app that demonstrates a Minesweeper-based game, which can be controlled and managed through two HTML pages: index.html and control.html. The game is created using HTML and JavaScript.
 
-## How to use
 
-1. Open both pages simultaneously
-2. Set the control to Either win, lose or random.
-3. Win option will keep all your clicked tiles green.
-4. Lose options will keep all your clicked tiles red.
-5. Random option will produce random results between green and red when tiles are clicked.
+## Future Enhancements
+
+1. Add more game controls and settings.
+2. Enhance the user interface and design.
+3. Implement more gambling game variations.
+
